@@ -51,3 +51,5 @@
 Contributions and issues requests are welcome!
 
 Give a :star: if you like this project!
+#Snapshot of web application
+https://user-images.githubusercontent.com/109906931/250473022-61ccae9e-51c3-46ab-9f2a-5c436213748e.jpg
