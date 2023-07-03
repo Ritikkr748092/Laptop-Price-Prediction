@@ -52,4 +52,7 @@ Contributions and issues requests are welcome!
 
 Give a :star: if you like this project!
 #Snapshot of web application
-https://user-images.githubusercontent.com/109906931/250473022-61ccae9e-51c3-46ab-9f2a-5c436213748e.jpg
+![image](https://github.com/Ritikkr748092/Laptop-Price-Prediction/assets/94426888/d1d8c42f-065d-49ae-ae0d-506a62e52ded)
+![250473072-6c25761d-92e9-4c28-9bb0-87095f3840a8](https://github.com/Ritikkr748092/Laptop-Price-Prediction/assets/94426888/65dfc1fa-dbe6-4bd7-89ab-f9edea500420)
+
+
